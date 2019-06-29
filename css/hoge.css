@@ -1,0 +1,22 @@
+ol {
+	background: #f3fbff;
+	/*2px 水色 破線を指定*/
+	border: 2px skyblue dashed; 
+	list-style-type: none;
+	width: 65%;
+}
+
+.box2 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    /*color: #6091d3;/*文字色*/*/
+    background: #FFF;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+    width: 65%;
+}
+.box2 p {
+    margin: 0; 
+    padding: 0;
+}
